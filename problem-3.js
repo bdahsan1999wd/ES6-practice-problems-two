@@ -14,8 +14,6 @@ const student = {
 
 
 
-
-
 /* -------------------- Access Object Values Using Dot Notation --------------------> !!!
 */
 
@@ -32,8 +30,7 @@ let data = {
   };
   
   /* Log the value of the city property to the console */
-  console.log(data.location[0].city);
-  
+  console.log(data.location[0].city); 
 
 
 
